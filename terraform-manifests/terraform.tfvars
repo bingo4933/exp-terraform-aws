@@ -1,0 +1,5 @@
+# Generica Variables
+# this variables will overwrite the defined ones which in c2-generic-variables.tf
+aws_region = "ap-northeast-1"
+environment = "dev"
+business_division = "infra"
